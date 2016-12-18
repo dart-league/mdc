@@ -1,0 +1,14 @@
+name: 'mdc'
+version: 0.0.1
+description: Material Components for the web (MDC-Web).
+author: adao
+homepage: https://github.com/adaojunior
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dependencies:
+  js: ^0.6.0
+
+dev_dependencies:
+  browser: '>=0.10.0 <0.11.0'
