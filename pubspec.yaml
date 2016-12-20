@@ -1,11 +1,11 @@
 name: 'mdc'
 version: 0.0.1
 description: Material Components for the web (MDC-Web).
-author: adao
-homepage: https://github.com/adaojunior
+author: Adao Junior
+homepage: https://github.com/dart-league/mdc
 
 environment:
-  sdk: '>=1.0.0 <2.0.0'
+  sdk: '>=1.8.0 <2.0.0'
 
 dependencies:
   js: ^0.6.0
